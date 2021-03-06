@@ -1,0 +1,16 @@
+h1{
+    color : rgb(145, 3, 3,0.95);
+    }
+    .Header
+    {
+        background-color: #e01c0e;
+        display : flex;
+        justify-content: space-between;
+        padding: 30px;
+    }
+    .Origami{
+        background-color: #0a1fdf;
+        display : flex;
+        justify-content: space-between;
+        padding: 60px;
+    }
